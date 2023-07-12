@@ -14,14 +14,14 @@
 		}
 	],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "Ash Vogl",
+    "subtitle": "a front-end developer with a passion for elegant, accessible solutions."
   },
   "about": {
     "title": "About me",
-    "image": "/placeholder.png",
-    "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
-    "secondary": "Extra Information about you! like hobbies and your goals."
+    "image": "/JWV9907.jpg",
+    "primary": "I've always held a love for the worlds of design and technology, and since the beginning of my professional career I've strived to bring them together. I've spent the last several years developing proprietary software in an agile working environment, fostering my skills as a front-end developer. I love to take on challenging design problems, whether it's crafting a unified experience, untangling user feedback, or simply asking, \"How can we make this better?\"",
+    "secondary": "When I'm not creating new features or hunting down bugs, I am an avid gamer, dungeon master, and artist. I especially love character design, making creatures and the realms they live in. I also take care of a little black cat who, no matter how recently she's been fed, insists on trying to eat anything that I am holding."
   },
   "projects": {
     "title": "Projects",
@@ -52,11 +52,10 @@
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "your-form-id"
+    "formId": "xnqkqowo",
+    "siteKey": "6Lc7txcnAAAAAOBMGozWlHAVaoN_uyuyOpOUubqM"
   },
   "footer": {
-		"linkedin": "",
-		"twitter": "",
-		"github": ""
+		"linkedin": "https://www.linkedin.com/in/ash-vogl/"
 	}
 }

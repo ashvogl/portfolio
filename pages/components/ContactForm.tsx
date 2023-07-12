@@ -68,6 +68,7 @@ function ContactForm() {
             errors={state.errors}
           />
         </div>
+        <div className="g-recaptcha" data-sitekey={contact.siteKey}></div>
         <div className="flex items-center justify-center">
           <button 
             type="submit"

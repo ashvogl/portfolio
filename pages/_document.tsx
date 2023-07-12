@@ -1,4 +1,4 @@
-import { Html, Head, NextScript } from 'next/document'
+import { Html, Head, NextScript, Main } from 'next/document'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -11,6 +11,7 @@ export default function Document() {
     <Html lang="en" className='scroll-smooth'>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
       <Head />
+      <Main />
       <body className='text-black'>
         <NextScript />
         <Header />
