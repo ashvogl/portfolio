@@ -21,32 +21,17 @@
     "title": "About me",
     "image": "/JWV9907.jpg",
     "primary": "I've always held a love for the worlds of design and technology, and since the beginning of my professional career I've strived to bring them together. I've spent the last several years developing proprietary software in an agile working environment, fostering my skills as a front-end developer. I love to take on challenging design problems, whether it's crafting a unified experience, untangling user feedback, or simply asking, \"How can we make this better?\"",
-    "secondary": "When I'm not creating new features or hunting down bugs, I am an avid gamer, dungeon master, and artist. I especially love character design, making creatures and the realms they live in. I also take care of a little black cat who, no matter how recently she's been fed, insists on trying to eat anything that I am holding."
+    "secondary": "When I'm not creating new features or hunting down bugs, I am an avid gamer, dungeon master, and artist. I especially love character design, making creatures and the realms they live in. I also take care of a little orange and white cat, who likes to be helpful by stepping on my keyboard."
   },
   "projects": {
     "title": "Projects",
     "projects": [
       {
-        "title": "Project 1",
-        "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
-        "url": "http://www.example.com/project1",
-        "github": "http://www.example.com/github",
-        "image": "/placeholder-700x350.png"
-      },
-      {
-				"title": "Project 2",
-				"description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-				"url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
-			},
-      {
-				"title": "Project 3",
-				"description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
-				"url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
-			}
+        "title": "SWIM Website Redesign",
+        "description": "Scaling Wellness in Milwaukee is a nonprofit organization founded in 2018 that supports traumatized individuals with holistic healing and workplace training. When they sought volunteers for their CMS website redesign through CatchAFire.org, I was happy to step up to the challenge!",
+        "url": "https://www.swimke.org/",
+        "image": "/swim-logo.jpg"
+      }
     ]
   },
   "contact": {
